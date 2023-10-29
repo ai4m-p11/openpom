@@ -3,7 +3,7 @@ pandas
 numpy
 rdkit
 deepchem
-torch
+torch==2.0
 torchvision
 torchaudio
 dgllife
